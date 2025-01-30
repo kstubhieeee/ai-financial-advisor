@@ -2,6 +2,37 @@
 
 An intelligent financial advisory platform powered by AI that helps users manage their investments, track portfolios, and receive personalized financial guidance.
 
+## Contributors
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/insanelyai">
+        <img src="https://github.com/insanelyai.png" alt="Hasan" style="width:100px; height:100px; border-radius:50%;"/><br>
+        <sub><b>Hasan</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/hemant-i7">
+        <img src="https://github.com/hemant-i7.png" alt="Hemant" style="width:100px; height:100px; border-radius:50%;"/><br>
+        <sub><b>Hemant</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kstubhieeee">
+        <img src="https://github.com/kstubhieeee.png" alt="Kaustubh" style="width:100px; height:100px; border-radius:50%;"/><br>
+        <sub><b>Kaustubh</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Morviee">
+        <img src="https://github.com/Morviee.png" alt="Morvi" style="width:100px; height:100px; border-radius:50%;"/><br>
+        <sub><b>Morvi</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## 🌟 Features
 
 - **AI-Powered Chat Assistant**
